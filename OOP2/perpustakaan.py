@@ -1,4 +1,4 @@
-class perpustakaan:
+class Buku:
     def __init__(self, judul, penulis, tahun_terbit):
         self.judul = judul
         self.penulis = penulis
